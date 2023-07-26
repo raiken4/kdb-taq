@@ -129,6 +129,7 @@ rentable:{[dbdir;old;new] / rentable[`:.;`trade;`transactions]
  ren1table'[allpaths[dbdir;old];allpaths[dbdir;new]];}
 
 \
+raiken adding comments here
 test with https://github.com/KxSystems/kdb/blob/master/tq.q (sample taq database)
 
 if making changes to current database you need to reload (\l .) to make modifications visible
